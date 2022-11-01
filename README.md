@@ -3,4 +3,4 @@
 > Kurbanların bilgilerinin düştüğü konum >> logins.txt
 > Script türkçe. Siz kendinize göre düzenleyebilirsiniz.
 
->> atoxd x)
+> atoxd x)
